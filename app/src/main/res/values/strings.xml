@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Подбери себе питомца</string>
+    <string name="test">Тест</string>
+    <string name="wiki">Энциклопедия</string>
+    <string name="results">Результаты</string>
+    <string name="button_start">Пройти тест</string>
+    <string name="test_title">Узнай какого питомец тебе подходит!</string>
+    <string name="result_title">Мои результаты</string>
+    <string name="wiki_title">Энциклопедия питомцев</string>
+    <string name="wiki_tmp">Энциклопедия животных</string>
+    <string name="to_wiki">Открыть в энциклопедии</string>
+    <string name="how_pick">Как подбирали?</string>
+    <string name="Birds">Птицы</string>
+    <string name="Dogs">Собаки</string>
+    <string name="Cats">Кошки</string>
+    <string name="all_animal">Все</string>
+    <string name="Fishes">Рыбы</string>
+    <string name="Rodents">Грызуны</string>
+    <string name="Others">Другие</string>
+    <string name="Second_res">2 место</string>
+    <string name="Third_res">3 место</string>
+    <string name="First_res">1 место</string>
+    <string name="no_test">Пройдите тест для получения результатов</string>
+</resources>
